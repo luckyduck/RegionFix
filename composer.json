@@ -21,13 +21,5 @@
         "psr-4": {
             "Twinsen\\RegionFix\\": ""
         }
-    },
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Twinsen/RegionFix"
-            ]
-        ]
     }
 }
